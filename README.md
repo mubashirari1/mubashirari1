@@ -1,19 +1,29 @@
-<h1 align="center">Hi there, I'm Mohd Mubashir Ansari 👋</h1>
-<h3 align="center">Android & Flutter Developer | Unity Game Developer | Founder of Ferit Store</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Mohd%20Mubashir%20Ansari&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Android%20%26%20Flutter%20Developer%20%7C%20Unity%20Game%20Developer&descAlignY=54&descSize=16" alt="Mohd Mubashir Ansari">
+</p>
+
+<p align="center">
+  <a href="https://github.com/mubashirari1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Android+%26+Flutter+Developer;Unity+Game+Developer;Founder+of+Ferit+Store+%26+Bag+Birds;Building+AI+Apps+%F0%9F%A4%96;Based+in+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://ferit-store.onrender.com"><img src="https://img.shields.io/badge/Ferit_Store-LIVE-green?style=for-the-badge" alt="Ferit Store"></a>
+  <a href="https://bagbirds.onrender.com"><img src="https://img.shields.io/badge/Bag_Birds-LIVE-brown?style=for-the-badge" alt="Bag Birds"></a>
   <a href="https://www.youtube.com/@emaansafar2.0"><img src="https://img.shields.io/badge/YouTube-emaansafar-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
   <a href="https://www.instagram.com/clippershortpart"><img src="https://img.shields.io/badge/Instagram-clippershortpart-purple?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <img src="https://komarev.com/ghpvc/?username=mubashirari1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views">
 </p>
 
 ## 🙋 About Me
 
 - 🎓 Diploma in **Information Technology** — Vidyalankar Polytechnic, Mumbai (Class of 2026)
 - 📱 I build **Android apps** with Flutter & Kotlin, and **games** with Unity
-- 🛒 Founder of **Ferit Store** — a live online electronics store (website + Android app)
+- 🛒 Founder of **Ferit Store** — a live online store for ladies bags (website + Android app)
+- 👜 Founder of **Bag Birds** — a premium leather bags & jackets store
 - 🎮 Currently building **GTAD Dharavi** — an open-world driving game set in Dharavi, Mumbai
-- 🤖 Also building **FERIT** — my own personal AI voice assistant for Android
+- 🤖 Also building **Seyran** — an AI companion app for Android, and **FERIT**, my personal AI voice assistant
 - 🌱 Always learning: game development, AI integration & full-stack web development
 - 📍 Mumbai, India
 
@@ -37,8 +47,10 @@
 
 ## 🚀 Featured Projects
 
-- 🛒 **[Ferit Store](https://github.com/mubashirari1/ferit-store)** — Live e-commerce store with payments, coupons & order tracking → [Visit the store](https://ferit-store.onrender.com)
+- 🛒 **[Ferit Store](https://github.com/mubashirari1/ferit-store)** — Live e-commerce store (ladies bags) with coupons, order tracking & OTP login → [Visit the store](https://ferit-store.onrender.com)
+- 👜 **[Bag Birds](https://github.com/mubashirari1/Bagbirds)** — Premium leather bags & jackets store → [Visit the store](https://bagbirds.onrender.com)
 - 🎮 **[GTAD Dharavi](https://github.com/mubashirari1/Gta-Dharavi-)** — Open-world game in Unity: real Dharavi map, traffic, police & missions
+- 🌸 **[Seyran AI](https://github.com/mubashirari1/Seyran-ai)** — AI companion app for Android with voice chat & memory
 - 🤖 **[FERIT Personal AI](https://github.com/mubashirari1/Ferit-ai)** — My own voice assistant for Android (wake word, voice commands, device control)
 - 🕌 **[Ababil Tasbeeh](https://github.com/mubashirari1/Ababiltasbeeh)** — Islamic app: prayer times, Qur'an audio, tasbeeh counter & duas
 - 💬 **[Seyran Chat](https://github.com/mubashirari1/SeyranChat-)** — Chat app that also works offline via Bluetooth / Wi-Fi Direct
@@ -48,13 +60,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mubashirari1&show_icons=true&theme=tokyonight" alt="Mohd's GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=mubashirari1&theme=tokyonight&hide_border=true" alt="GitHub Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirari1&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </p>
 
 ## 📫 Reach Me
 
-- 🌐 Store: https://ferit-store.onrender.com
+- 🌐 Stores: [Ferit Store](https://ferit-store.onrender.com) · [Bag Birds](https://bagbirds.onrender.com)
 - 📧 feritelec01@gmail.com
 - 📺 YouTube: [@emaansafar2.0](https://www.youtube.com/@emaansafar2.0)
 - 📸 Instagram: [@clippershortpart](https://www.instagram.com/clippershortpart) (gaming) · [@khabo.ki.kahani](https://www.instagram.com/khabo.ki.kahani) (Islamic stories)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="">
+</p>
